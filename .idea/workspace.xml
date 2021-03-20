@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ad7a6447-2f48-4b46-ad20-bc7772858b7a" name="Default Changelist" comment="" />
+    <list default="true" id="ad7a6447-2f48-4b46-ad20-bc7772858b7a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,6 +53,7 @@
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="jdk.selected.JAVA_MODULE" value="1.8" />
@@ -137,12 +141,60 @@
       <workItem from="1616059685405" duration="889000" />
       <workItem from="1616137402716" duration="693000" />
       <workItem from="1616206777057" duration="60000" />
-      <workItem from="1616228488644" duration="826000" />
+      <workItem from="1616228488644" duration="1187000" />
     </task>
+    <task id="LOCAL-00001" summary="添加.idea--&gt;workspace.xml中&lt;component name=&quot;Git.Settings&quot;&gt;&lt;/component&gt;">
+      <created>1616229597513</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1616229597513</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="添加.idea--&gt;workspace.xml中&lt;component name=&quot;Git.Settings&quot;&gt;&lt;/component&gt;" />
+    <option name="LAST_COMMIT_MESSAGE" value="添加.idea--&gt;workspace.xml中&lt;component name=&quot;Git.Settings&quot;&gt;&lt;/component&gt;" />
   </component>
   <component name="WindowStateProjectService">
     <state x="550" y="28" key="#Auto_Import" timestamp="1614666236315">
@@ -169,10 +221,14 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="391" y="279" key="#com.intellij.javaee.module.view.web.EditWebRootDialog/0.0.1366.728@0.0.1366.728" timestamp="1614574070886" />
-    <state x="244" y="108" key="FileChooserDialogImpl" timestamp="1616229373446">
+    <state x="291" y="0" width="1075" height="728" key="CommitChangelistDialog2" timestamp="1616229596060">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="244" y="108" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1616229373446" />
+    <state x="291" y="0" width="1075" height="728" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1616229596060" />
+    <state x="244" y="108" key="FileChooserDialogImpl" timestamp="1616229883982">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="244" y="108" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1616229883982" />
     <state width="1323" height="351" key="GridCell.Tab.0.bottom" timestamp="1616036393109">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -209,6 +265,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="232" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1616229327498" />
+    <state x="275" y="99" key="Vcs.Push.Dialog.v2" timestamp="1616229923374">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="99" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1616229923374" />
     <state x="705" y="0" width="626" height="728" key="find.popup" timestamp="1615971691437">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
