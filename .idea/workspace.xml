@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ad7a6447-2f48-4b46-ad20-bc7772858b7a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="spring-beans.schema" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\Users\zhaoxu\.m2\repository" />
+        <option name="userSettingsFile" value="C:\Users\zhaoxu\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1p8cN0NH8d1YGR5dOFAxeEq4xz0" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/ego_manage/src/main/webapp" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.importing" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\codespace\case\ego_parent\ego_manage\src\main" />
+      <recent name="E:\codespace\case\ego_parent\ego_manage\src\main\resources\static" />
+      <recent name="E:\codespace\case\ego_parent\ego_mapper\src\main\resources\mybatis" />
+      <recent name="E:\codespace\case\ego_parent\ego_mapper\src\main\java\com\ego\mapper" />
+      <recent name="E:\codespace\case\ego_parent\ego_pojo\src\main\java\com\ego\pojo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ManageApplication">
+    <configuration name="ManageApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="ego_manage" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ego.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ego.ManageApplication" />
+      <option name="WORKING_DIRECTORY" value="file://$MODULE_WORKING_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="ego_provider" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.ego.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.ego.ProviderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.ManageApplication" />
+      <item itemvalue="Spring Boot.ProviderApplication" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.ManageApplication" />
+        <item itemvalue="Spring Boot.ProviderApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad7a6447-2f48-4b46-ad20-bc7772858b7a" name="Default Changelist" comment="" />
+      <created>1614568113098</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614568113098</updated>
+      <workItem from="1614568116069" duration="16025000" />
+      <workItem from="1614661307874" duration="15121000" />
+      <workItem from="1614734826623" duration="7003000" />
+      <workItem from="1614819899147" duration="12523000" />
+      <workItem from="1614999206540" duration="9569000" />
+      <workItem from="1615355954110" duration="878000" />
+      <workItem from="1615362692132" duration="1501000" />
+      <workItem from="1615458781375" duration="3475000" />
+      <workItem from="1615878004388" duration="4772000" />
+      <workItem from="1615970787556" duration="1566000" />
+      <workItem from="1616059685405" duration="889000" />
+      <workItem from="1616137402716" duration="693000" />
+      <workItem from="1616206777057" duration="60000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="550" y="28" key="#Auto_Import" timestamp="1614666236315">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="550" y="28" key="#Auto_Import/0.0.1366.728@0.0.1366.728" timestamp="1614666236315" />
+    <state x="273" y="46" key="#Project_Structure" timestamp="1614568984019">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="273" y="46" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1614568984019" />
+    <state x="137" y="21" width="1165" height="685" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1614575012347">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="21" width="1165" height="685" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1614575012347" />
+    <state x="823" y="60" key="#com.intellij.ide.util.MemberChooser" timestamp="1616032816839">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="823" y="60" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1616032816839" />
+    <state x="363" y="279" width="525" height="170" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath" timestamp="1614574060509">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="363" y="279" width="525" height="170" key="#com.intellij.javaee.module.view.common.J2EE.J2EEDeploymentDescriptorLocationPanel.changeDDPath/0.0.1366.728@0.0.1366.728" timestamp="1614574060509" />
+    <state x="391" y="279" key="#com.intellij.javaee.module.view.web.EditWebRootDialog" timestamp="1614574070886">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="391" y="279" key="#com.intellij.javaee.module.view.web.EditWebRootDialog/0.0.1366.728@0.0.1366.728" timestamp="1614574070886" />
+    <state x="244" y="108" key="FileChooserDialogImpl" timestamp="1614574069702">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="244" y="108" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1614574069702" />
+    <state width="1323" height="351" key="GridCell.Tab.0.bottom" timestamp="1616036393109">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="351" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1616036393109" />
+    <state width="1323" height="351" key="GridCell.Tab.0.center" timestamp="1616036393109">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="351" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1616036393109" />
+    <state width="1323" height="351" key="GridCell.Tab.0.left" timestamp="1616036393109">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="351" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1616036393109" />
+    <state width="1323" height="351" key="GridCell.Tab.0.right" timestamp="1616036393109">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="351" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1616036393109" />
+    <state width="1323" height="351" key="GridCell.Tab.1.bottom" timestamp="1616036393110">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="351" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1616036393110" />
+    <state width="1323" height="351" key="GridCell.Tab.1.center" timestamp="1616036393110">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="351" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1616036393110" />
+    <state width="1323" height="351" key="GridCell.Tab.1.left" timestamp="1616036393110">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="351" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1616036393110" />
+    <state width="1323" height="351" key="GridCell.Tab.1.right" timestamp="1616036393110">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="351" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1616036393110" />
+    <state x="82" y="0" key="SettingsEditor" timestamp="1614662898793">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="82" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1614662898793" />
+    <state x="705" y="0" width="626" height="728" key="find.popup" timestamp="1615971691437">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="705" y="0" width="626" height="728" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1615971691437" />
+    <state x="115" y="124" key="new project wizard" timestamp="1614568964576">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="115" y="124" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1614568964576" />
+    <state x="681" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1615787995551">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="681" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1615787995551" />
+  </component>
+</project>
